@@ -1,2 +1,2 @@
-# template-lib
-js插件项目模板
+# l-utils
+工具类方法
