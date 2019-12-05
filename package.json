@@ -1,5 +1,5 @@
 {
-  "name": "l-utils",
+  "name": "template-lib",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [
-    "l-utils"
+    "template-lib"
   ],
   "author": "ycl",
   "license": "ISC",
